@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-7j0uB4QQ-A)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/order-summary-component/)
 
 ## My process
 
