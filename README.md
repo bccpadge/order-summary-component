@@ -11,7 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-7j0uB4QQ-A)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/order-summary-component/)
 
 ## My process
 
@@ -42,5 +41,11 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@bccpadge](https://www.frontendmentor.io/profile/bccpadge)
-- Github - [@bccpadge](https://github.com/bccpadge)
+<a href="https://www.frontendmentor.io/profile/bccpadge">
+<img src="https://img.shields.io/badge/FrontendMentor-57b1e6?style=for-the-badge&logo=frontendmentor&logoColor=white">
+</a>
+<p align="left">
+<a href="https://github.com/bccpadge">
+<img src="https://img.shields.io/badge/Github-9757e6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
